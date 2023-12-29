@@ -1,0 +1,3 @@
+{"reason":"Push all on [com.intellij.openapi.roots.impl.JavaLanguageLevelPusher@39961cd5]","startTime":"2023-12-28T11:30:33.260733341+01:00[Europe/Belgrade]","duration":43377726,"isCancelled":false}
+{"reason":"Push all on [com.intellij.openapi.roots.impl.JavaLanguageLevelPusher@39961cd5]","startTime":"2023-12-29T00:32:12.208967641+01:00[Europe/Belgrade]","duration":1278867,"isCancelled":false}
+{"reason":"Push on VFS changes","startTime":"2023-12-29T00:51:43.976140657+01:00[Europe/Belgrade]","duration":60767191,"isCancelled":false}

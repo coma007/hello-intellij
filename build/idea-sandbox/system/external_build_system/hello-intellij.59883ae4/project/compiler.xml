@@ -1,0 +1,8 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="hello-intellij.main" target="17" />
+      <module name="hello-intellij.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,88 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1703759029099" />
+    </e>
+    <e n="$SelectAll">
+      <i c="4" l="1703759050418" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1703759220263" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="5" l="1703759220017" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1703759222390" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1703758966522" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1703759027191" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="8" l="1703759219359" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1703759050656" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1703759219718" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="1" l="1703758957148" />
+    </e>
+    <e n="ExternalSystem.RefreshAllProjects">
+      <i c="2" l="1703759364223" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="1" l="1703759111048" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1703759388241" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="1" l="1703759037148" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1703759343511" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1703759109114" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1703759304776" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="3" l="1703758784722" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="1" l="1703758785982" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1703758821268" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="2" l="1703759286590" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="1" l="1703759321656" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1703759080204" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1703759194522" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1703759312635" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="6" l="1703759312224" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.impl.SegmentedButtonAction">
+      <i c="1" l="1703759348647" />
+    </e>
+  </component>
+</application>

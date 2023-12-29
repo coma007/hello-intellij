@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Gradle 8.2
+Build-JVM: 20.0.2.1 (Amazon.com Inc. 20.0.2.1+10-FR)
+Version: 1.0-SNAPSHOT
+Build-Plugin: Gradle IntelliJ Plugin
+Build-Plugin-Version: 1.15.0
+Build-OS: Linux 6.5.6-76060506-generic amd64
+Build-SDK: IC-2022.2.5
+
