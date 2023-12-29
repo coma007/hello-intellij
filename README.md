@@ -6,7 +6,7 @@ Welcome to the "hello-intellij" plugin! This plugin adds a simple "Hello World" 
 
 Follow these steps to install the "hello-intellij" plugin:
 
-1. Download the JAR file from the [releases page](https://github.com/coma007/hello-intellij/blob/main/hello-intellij.jar).
+1. Download the JAR file from this [link](https://github.com/coma007/hello-intellij/blob/main/hello-intellij.jar).
 2. Open IntelliJ IDEA.
 3. Navigate to `File > Settings...` (or `IntelliJ IDEA > Preferences...` on macOS).
 4. In the Settings/Preferences dialog, choose `Plugins`.
